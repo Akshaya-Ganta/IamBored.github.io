@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Sok';
+    src: url(Fontie/Sok\ Brubah.ttf);
+}
+
+html{
+    background-color: #D98324;
+}
+h1{
+    font-family: 'Sok','sans-serif';
+
+
+}
+.top{
+    margin: 2px ;
+    background-color:#F2F6D0;
+    border: 1px solid;
+    padding-left: 2px;
+    padding-right: 2px;
+
+}
+.img
+{
+    display: grid;
+    justify-content: center;
+    padding-top: 20px;
+    
+}
+div>h4{
+    display: grid;
+    font-family: 'Sok','sand-serif';
+    justify-content: center;
+   
+}
+
+div>h1{
+
+    display: grid;
+    justify-content: center;
+
+}
+img
+{
+    width: 200px;
+}
+.idk{
+    font-family: 'Sok';
+}
+
